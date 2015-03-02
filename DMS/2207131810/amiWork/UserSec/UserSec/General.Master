@@ -1,0 +1,26 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="General.master.cs" Inherits="UserSec.General" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="UserMaintCSS/GeneralMaster.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="frmGeneral" runat="server">
+    <div id="divGenTop" runat="server" class="gentop" style="height: 100px; border: 1px;
+        border-color: Black;">
+    </div>
+    <div id="divGenNav" runat="server" class="gennav" style="height: 75px; border: 1px;">
+    </div>
+    <div id="divGenMessage" runat="server" class="message" style="height: 25px; border: 1px;">
+    </div>
+    <div id="divMainCPH" class="MainCPH">
+        <asp:ContentPlaceHolder ID="cphGeneralMaster" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

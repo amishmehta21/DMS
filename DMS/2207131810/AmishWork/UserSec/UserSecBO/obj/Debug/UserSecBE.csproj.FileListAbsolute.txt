@@ -1,0 +1,20 @@
+C:\Users\abcd\documents\visual studio 2010\Projects\UserSec\UserSecBO\bin\Debug\UserSecBO.dll
+C:\Users\abcd\documents\visual studio 2010\Projects\UserSec\UserSecBO\bin\Debug\UserSecBO.pdb
+C:\Users\abcd\documents\visual studio 2010\Projects\UserSec\UserSecBO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\abcd\documents\visual studio 2010\Projects\UserSec\UserSecBO\obj\Debug\UserSecBO.dll
+C:\Users\abcd\documents\visual studio 2010\Projects\UserSec\UserSecBO\obj\Debug\UserSecBO.pdb
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\UserSecBO\bin\Debug\UserSecBO.dll
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\UserSecBO\bin\Debug\UserSecBO.pdb
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\UserSecBO\obj\Debug\ResolveAssemblyReference.cache
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\UserSecBO\obj\Debug\UserSecBO.dll
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\UserSecBO\obj\Debug\UserSecBO.pdb
+D:\DMS AMI\DMS\2207131810\NazimWork\UserSec\UserSecBO\bin\Debug\UserSecBO.dll
+D:\DMS AMI\DMS\2207131810\NazimWork\UserSec\UserSecBO\bin\Debug\UserSecBO.pdb
+D:\DMS AMI\DMS\2207131810\NazimWork\UserSec\UserSecBO\obj\Debug\ResolveAssemblyReference.cache
+D:\DMS AMI\DMS\2207131810\NazimWork\UserSec\UserSecBO\obj\Debug\UserSecBO.dll
+D:\DMS AMI\DMS\2207131810\NazimWork\UserSec\UserSecBO\obj\Debug\UserSecBO.pdb
+C:\DMS AMI\DMS\2207131810\AmishWork\UserSec\UserSecBO\bin\Debug\UserSecBO.dll
+C:\DMS AMI\DMS\2207131810\AmishWork\UserSec\UserSecBO\bin\Debug\UserSecBO.pdb
+C:\DMS AMI\DMS\2207131810\AmishWork\UserSec\UserSecBO\obj\Debug\UserSecBE.csprojResolveAssemblyReference.cache
+C:\DMS AMI\DMS\2207131810\AmishWork\UserSec\UserSecBO\obj\Debug\UserSecBO.dll
+C:\DMS AMI\DMS\2207131810\AmishWork\UserSec\UserSecBO\obj\Debug\UserSecBO.pdb

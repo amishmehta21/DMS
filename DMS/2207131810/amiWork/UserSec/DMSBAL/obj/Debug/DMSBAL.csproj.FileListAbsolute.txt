@@ -1,0 +1,27 @@
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\DMSBAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\DMSBAL\bin\Debug\DMSBAL.dll
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\DMSBAL\bin\Debug\DMSBAL.pdb
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\DMSBAL\bin\Debug\DMSBE.dll
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\DMSBAL\bin\Debug\DMSDAL.dll
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\DMSBAL\bin\Debug\DMSBE.pdb
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\DMSBAL\bin\Debug\DMSDAL.pdb
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\DMSBAL\obj\Debug\DMSBAL.dll
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\DMSBAL\obj\Debug\DMSBAL.pdb
+D:\dailybackup\1707131730\NazimWork\UserSec\DMSBAL\bin\Debug\DMSBAL.dll
+D:\dailybackup\1707131730\NazimWork\UserSec\DMSBAL\bin\Debug\DMSBAL.pdb
+D:\dailybackup\1707131730\NazimWork\UserSec\DMSBAL\bin\Debug\DMSBE.dll
+D:\dailybackup\1707131730\NazimWork\UserSec\DMSBAL\bin\Debug\DMSDAL.dll
+D:\dailybackup\1707131730\NazimWork\UserSec\DMSBAL\bin\Debug\DMSBE.pdb
+D:\dailybackup\1707131730\NazimWork\UserSec\DMSBAL\bin\Debug\DMSDAL.pdb
+D:\dailybackup\1707131730\NazimWork\UserSec\DMSBAL\obj\Debug\ResolveAssemblyReference.cache
+D:\dailybackup\1707131730\NazimWork\UserSec\DMSBAL\obj\Debug\DMSBAL.dll
+D:\dailybackup\1707131730\NazimWork\UserSec\DMSBAL\obj\Debug\DMSBAL.pdb
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\DMSBAL\bin\Debug\DMSBAL.dll
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\DMSBAL\bin\Debug\DMSBAL.pdb
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\DMSBAL\bin\Debug\DMSBE.dll
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\DMSBAL\bin\Debug\DMSDAL.dll
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\DMSBAL\bin\Debug\DMSBE.pdb
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\DMSBAL\bin\Debug\DMSDAL.pdb
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\DMSBAL\obj\Debug\DMSBAL.csprojResolveAssemblyReference.cache
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\DMSBAL\obj\Debug\DMSBAL.dll
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\DMSBAL\obj\Debug\DMSBAL.pdb

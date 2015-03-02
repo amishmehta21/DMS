@@ -1,0 +1,91 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="~/UserMaint/LoggedIn.Master.cs" Inherits="UserSec.LoggedIn" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="../UserMaintCSS/LoggedInMaster.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+   
+</head>
+<body>
+    <form id="LoggedInMasterForm" runat="server">
+    <div id="divTop" class="TopCss">
+        <div id="divTop1" class="Top1Css">
+        </div>
+        <div id="divNavigation" class="navigationCss">
+            <div id="divNavigationL1" class="navigationL1Css">
+                <asp:Menu ID="LoggedInMenu" runat="server" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem Text="Role Maintenance" Value="Role Maintenance">
+                            <asp:MenuItem Text="AddRole" Value="Add" 
+                                NavigateUrl="~/UserMaint/UM_RoleAdd.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="Search/List" Value="Search/List" 
+                                NavigateUrl="~/UserMaint/UM_RoleList.aspx"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="User Maintenance" Value="User Maintenance">
+                            <asp:MenuItem Text="AddUser" Value="Add" 
+                                NavigateUrl="~/UserMaint/UM_UserAdd.aspx"></asp:MenuItem>
+                            <asp:MenuItem Text="UserList" Value="Search/List" 
+                                NavigateUrl="~/UserMaint/UM_UserList.aspx"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="Page wise Role Access Rights" Value="Page wise Role Access Rights">
+                            <asp:MenuItem Text="RoleMember" Value="Search" 
+                                NavigateUrl="~/UserMaint/UM_RoleMember.aspx"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/UserMaint/UM_RoleAccessRights.aspx" Text="RoleAccessRights" 
+                                Value="RoleAccessRights"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="Document Management System" 
+                            Value="Document Management System">
+                            <asp:MenuItem NavigateUrl="~/DMS/DMS_DocumentAdd.aspx" Text="AddDocument" 
+                                Value="AddDocument"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/DMS/DMS_DocumentList.aspx" Text="DocumentList" 
+                                Value="DocumentList"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/DMS/DMS_SearchDocument.aspx" Text="Search Document" 
+                                Value="Search Document"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="Category" Value="Category">
+                            <asp:MenuItem NavigateUrl="~/DMS/DMS_CategoryAdd.aspx" Text="AddCategory" 
+                                Value="AddCategory"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/DMS/DMS_CategoryList.aspx" Text="CategoryList" 
+                                Value="CategoryList"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="SubCategory" Value="SubCategory">
+                            <asp:MenuItem NavigateUrl="~/DMS/DMS_SubCategoryAdd.aspx" Text="AddSubCategory" 
+                                Value="AddSubCategory"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/DMS/DMS_SubCategoryList.aspx" Text="SubCategoryList" 
+                                Value="SubCategoryList"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="Miscellaneous" Value="Miscellaneous">
+                            <asp:MenuItem NavigateUrl="~/DMS/DMS_MiscellaneousAdd.aspx" Text="AddMiscellaneous" 
+                                Value="AddMiscellaneous"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/DMS/DMS_MiscellaneousList.aspx" 
+                                Text="MiscellaneousList" Value="MiscellaneousList"></asp:MenuItem>
+                        </asp:MenuItem>
+                    </Items>
+                </asp:Menu>
+            </div>
+            <div id="divNavigationL2" class="navigationL2Css">
+            </div>
+            <div id="divNavigationL3" class="navigationL3Css">
+            </div>
+        </div>
+        <div id="divMessage" class="MessageCss">
+            <div id="divMessageL1" class="MessageL1Css" runat="server">
+            </div>
+            <div id="divMessageL2" class="MessageL2Css">
+                <asp:Label ID="lblUserName" runat="server"  CssClass="lblUserNameCss"
+                    ></asp:Label>
+            </div>
+        </div>
+        <div id="divBreadCrumb" class="BreadCrumb" style="height: 36px">
+        </div>
+    </div>
+    <div id="divMainPage" class="MainPageCss">
+        <asp:ContentPlaceHolder ID="cpMainPage" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

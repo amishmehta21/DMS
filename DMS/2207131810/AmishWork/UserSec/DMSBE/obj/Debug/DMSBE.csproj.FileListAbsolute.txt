@@ -1,0 +1,15 @@
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\DMSBE\bin\Debug\DMSBE.dll
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\DMSBE\bin\Debug\DMSBE.pdb
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\DMSBE\obj\Debug\ResolveAssemblyReference.cache
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\DMSBE\obj\Debug\DMSBE.dll
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\DMSBE\obj\Debug\DMSBE.pdb
+D:\DMS AMI\DMS\2207131810\NazimWork\UserSec\DMSBE\bin\Debug\DMSBE.dll
+D:\DMS AMI\DMS\2207131810\NazimWork\UserSec\DMSBE\bin\Debug\DMSBE.pdb
+D:\DMS AMI\DMS\2207131810\NazimWork\UserSec\DMSBE\obj\Debug\ResolveAssemblyReference.cache
+D:\DMS AMI\DMS\2207131810\NazimWork\UserSec\DMSBE\obj\Debug\DMSBE.dll
+D:\DMS AMI\DMS\2207131810\NazimWork\UserSec\DMSBE\obj\Debug\DMSBE.pdb
+C:\DMS AMI\DMS\2207131810\AmishWork\UserSec\DMSBE\bin\Debug\DMSBE.dll
+C:\DMS AMI\DMS\2207131810\AmishWork\UserSec\DMSBE\bin\Debug\DMSBE.pdb
+C:\DMS AMI\DMS\2207131810\AmishWork\UserSec\DMSBE\obj\Debug\DMSBE.csprojResolveAssemblyReference.cache
+C:\DMS AMI\DMS\2207131810\AmishWork\UserSec\DMSBE\obj\Debug\DMSBE.dll
+C:\DMS AMI\DMS\2207131810\AmishWork\UserSec\DMSBE\obj\Debug\DMSBE.pdb

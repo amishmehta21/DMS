@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{52F210CA-77A7-4A78-9DD3-AB61F55F39CD}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UserSec</RootNamespace>
+    <AssemblyName>UserSec</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DMSCSS\CategoryAdd.css" />
+    <Content Include="DMSCSS\DocumentAdd.css" />
+    <Content Include="DMSCSS\ErrorText.css" />
+    <Content Include="DMSCSS\SubCategoryAdd.css" />
+    <Content Include="DMS\CategoryAdd.aspx" />
+    <Content Include="DMS\CategoryList.aspx" />
+    <Content Include="DMS\SearchDocument.aspx" />
+    <Content Include="UserMaintCSS\UM_displayNone.css" />
+    <Content Include="UserMaintCSS\UM_RoleAdd.css" />
+    <Content Include="DMS\DocumentAdd.aspx" />
+    <Content Include="DMS\DocumentList.aspx" />
+    <Content Include="DMS\MiscellaneousAdd.aspx" />
+    <Content Include="DMS\MiscellaneousList.aspx" />
+    <Content Include="DMS\SubCategoryAdd.aspx" />
+    <Content Include="DMS\SubCategoryList.aspx" />
+    <Content Include="js\UM_ConfirmDelete.js" />
+    <Content Include="Login.aspx" />
+    <Content Include="UserMaintCSS\Login.css" />
+    <Content Include="UserMaintCSS\GeneralMaster.css" />
+    <Content Include="UserMaint\UM_RoleAccessRights.aspx" />
+    <Content Include="UserMaint\UM_RoleList.aspx" />
+    <Content Include="UserMaint\UM_RoleAdd.aspx" />
+    <Content Include="UserMaint\UM_RoleMember.aspx" />
+    <Content Include="UserMaint\UM_UserAdd.aspx" />
+    <Content Include="UserMaint\LoggedIn.aspx" />
+    <Content Include="UserMaintCSS\LoggedInMaster.css" />
+    <Content Include="UserMaintCSS\UM_UserAdd.css" />
+    <Content Include="UserMaint\UM_UserList.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DMS\CategoryAdd.aspx.cs">
+      <DependentUpon>CategoryAdd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DMS\CategoryAdd.aspx.designer.cs">
+      <DependentUpon>CategoryAdd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DMS\CategoryList.aspx.cs">
+      <DependentUpon>CategoryList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DMS\CategoryList.aspx.designer.cs">
+      <DependentUpon>CategoryList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DMS\DocumentAdd.aspx.cs">
+      <DependentUpon>DocumentAdd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DMS\DocumentAdd.aspx.designer.cs">
+      <DependentUpon>DocumentAdd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DMS\DocumentList.aspx.cs">
+      <DependentUpon>DocumentList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DMS\DocumentList.aspx.designer.cs">
+      <DependentUpon>DocumentList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DMS\MiscellaneousAdd.aspx.cs">
+      <DependentUpon>MiscellaneousAdd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DMS\MiscellaneousAdd.aspx.designer.cs">
+      <DependentUpon>MiscellaneousAdd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DMS\MiscellaneousList.aspx.cs">
+      <DependentUpon>MiscellaneousList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DMS\MiscellaneousList.aspx.designer.cs">
+      <DependentUpon>MiscellaneousList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DMS\SearchDocument.aspx.cs">
+      <DependentUpon>SearchDocument.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DMS\SearchDocument.aspx.designer.cs">
+      <DependentUpon>SearchDocument.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DMS\SubCategoryAdd.aspx.cs">
+      <DependentUpon>SubCategoryAdd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DMS\SubCategoryAdd.aspx.designer.cs">
+      <DependentUpon>SubCategoryAdd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DMS\SubCategoryList.aspx.cs">
+      <DependentUpon>SubCategoryList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DMS\SubCategoryList.aspx.designer.cs">
+      <DependentUpon>SubCategoryList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="General.Master.cs">
+      <DependentUpon>General.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="General.Master.designer.cs">
+      <DependentUpon>General.Master</DependentUpon>
+    </Compile>
+    <Compile Include="UserMaint\UM_RoleAccessRights.aspx.cs">
+      <DependentUpon>UM_RoleAccessRights.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserMaint\UM_RoleAccessRights.aspx.designer.cs">
+      <DependentUpon>UM_RoleAccessRights.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserMaint\UM_RoleList.aspx.cs">
+      <DependentUpon>UM_RoleList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserMaint\UM_RoleList.aspx.designer.cs">
+      <DependentUpon>UM_RoleList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserMaint\UM_RoleAdd.aspx.cs">
+      <DependentUpon>UM_RoleAdd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserMaint\UM_RoleAdd.aspx.designer.cs">
+      <DependentUpon>UM_RoleAdd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserMaint\UM_RoleMember.aspx.cs">
+      <DependentUpon>UM_RoleMember.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserMaint\UM_RoleMember.aspx.designer.cs">
+      <DependentUpon>UM_RoleMember.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserMaint\UM_UserAdd.aspx.cs">
+      <DependentUpon>UM_UserAdd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserMaint\UM_UserAdd.aspx.designer.cs">
+      <DependentUpon>UM_UserAdd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserMaint\LoggedIn.aspx.cs">
+      <DependentUpon>LoggedIn.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserMaint\LoggedIn.aspx.designer.cs">
+      <DependentUpon>LoggedIn.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserMaint\LoggedIn.Master.cs">
+      <DependentUpon>LoggedIn.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserMaint\LoggedIn.Master.designer.cs">
+      <DependentUpon>LoggedIn.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserMaint\UM_UserList.aspx.cs">
+      <DependentUpon>UM_UserList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserMaint\UM_UserList.aspx.designer.cs">
+      <DependentUpon>UM_UserList.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="General.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="UserMaint\LoggedIn.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DMSBAL\DMSBAL.csproj">
+      <Project>{42BBA17E-B452-490D-96B0-E6760B460D36}</Project>
+      <Name>DMSBAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DMSBE\DMSBE.csproj">
+      <Project>{78E9B1C5-8313-455F-B979-37CC59040A85}</Project>
+      <Name>DMSBE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UserSecBAL\UserSecBAL.csproj">
+      <Project>{75B24535-CBE8-4D17-9CC3-5E3595DEB974}</Project>
+      <Name>UserSecBAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UserSecBO\UserSecBE.csproj">
+      <Project>{81C68B2F-1C66-424B-8337-6247458DA919}</Project>
+      <Name>UserSecBE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UserSecDO\UserSecDAL.csproj">
+      <Project>{1A2D8130-6197-4ED6-ABAA-D67278264102}</Project>
+      <Name>UserSecDAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>21012</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

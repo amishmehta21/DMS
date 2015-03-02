@@ -1,0 +1,21 @@
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\DMSDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\DMSDAL\bin\Debug\DMSDAL.dll
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\DMSDAL\bin\Debug\DMSDAL.pdb
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\DMSDAL\bin\Debug\DMSBE.dll
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\DMSDAL\bin\Debug\DMSBE.pdb
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\DMSDAL\obj\Debug\DMSDAL.dll
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\DMSDAL\obj\Debug\DMSDAL.pdb
+D:\dailybackup\1707131730\NazimWork\UserSec\DMSDAL\bin\Debug\DMSDAL.dll
+D:\dailybackup\1707131730\NazimWork\UserSec\DMSDAL\bin\Debug\DMSDAL.pdb
+D:\dailybackup\1707131730\NazimWork\UserSec\DMSDAL\bin\Debug\DMSBE.dll
+D:\dailybackup\1707131730\NazimWork\UserSec\DMSDAL\bin\Debug\DMSBE.pdb
+D:\dailybackup\1707131730\NazimWork\UserSec\DMSDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\dailybackup\1707131730\NazimWork\UserSec\DMSDAL\obj\Debug\DMSDAL.dll
+D:\dailybackup\1707131730\NazimWork\UserSec\DMSDAL\obj\Debug\DMSDAL.pdb
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\DMSDAL\bin\Debug\DMSDAL.dll
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\DMSDAL\bin\Debug\DMSDAL.pdb
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\DMSDAL\bin\Debug\DMSBE.dll
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\DMSDAL\bin\Debug\DMSBE.pdb
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\DMSDAL\obj\Debug\DMSDAL.csprojResolveAssemblyReference.cache
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\DMSDAL\obj\Debug\DMSDAL.dll
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\DMSDAL\obj\Debug\DMSDAL.pdb

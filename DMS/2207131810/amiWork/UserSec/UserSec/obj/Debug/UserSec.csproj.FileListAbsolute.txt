@@ -1,0 +1,63 @@
+C:\Users\abcd\documents\visual studio 2010\Projects\UserSec\UserSec\bin\UserSec.dll
+C:\Users\abcd\documents\visual studio 2010\Projects\UserSec\UserSec\bin\UserSec.pdb
+C:\Users\abcd\documents\visual studio 2010\Projects\UserSec\UserSec\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\abcd\documents\visual studio 2010\Projects\UserSec\UserSec\obj\Debug\UserSec.dll
+C:\Users\abcd\documents\visual studio 2010\Projects\UserSec\UserSec\obj\Debug\UserSec.pdb
+C:\Users\abcd\documents\visual studio 2010\Projects\UserSec\UserSec\bin\UserSecBO.dll
+C:\Users\abcd\documents\visual studio 2010\Projects\UserSec\UserSec\bin\UserSecDO.dll
+C:\Users\abcd\documents\visual studio 2010\Projects\UserSec\UserSec\bin\UserSecBO.pdb
+C:\Users\abcd\documents\visual studio 2010\Projects\UserSec\UserSec\bin\UserSecDO.pdb
+C:\Users\abcd\documents\visual studio 2010\Projects\UserSec\UserSec\bin\UserSecBAL.dll
+C:\Users\abcd\documents\visual studio 2010\Projects\UserSec\UserSec\bin\UserSecBAL.pdb
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\UserSec\bin\UserSec.dll
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\UserSec\bin\UserSec.pdb
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\UserSec\bin\UserSecBAL.dll
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\UserSec\bin\UserSecBO.dll
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\UserSec\bin\UserSecDO.dll
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\UserSec\bin\UserSecBAL.pdb
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\UserSec\bin\UserSecBO.pdb
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\UserSec\bin\UserSecDO.pdb
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\UserSec\obj\Debug\ResolveAssemblyReference.cache
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\UserSec\obj\Debug\UserSec.dll
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\UserSec\obj\Debug\UserSec.pdb
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\UserSec\bin\DMSBAL.dll
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\UserSec\bin\DMSBE.dll
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\UserSec\bin\DMSDAL.dll
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\UserSec\bin\DMSBAL.pdb
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\UserSec\bin\DMSBE.pdb
+D:\Nazim Documents\Visual Studio 2010\Projects\UserSec\UserSec\bin\DMSDAL.pdb
+D:\dailybackup\1707131730\NazimWork\UserSec\UserSec\bin\UserSec.dll
+D:\dailybackup\1707131730\NazimWork\UserSec\UserSec\bin\UserSec.pdb
+D:\dailybackup\1707131730\NazimWork\UserSec\UserSec\bin\DMSBAL.dll
+D:\dailybackup\1707131730\NazimWork\UserSec\UserSec\bin\DMSBE.dll
+D:\dailybackup\1707131730\NazimWork\UserSec\UserSec\bin\UserSecBAL.dll
+D:\dailybackup\1707131730\NazimWork\UserSec\UserSec\bin\UserSecBO.dll
+D:\dailybackup\1707131730\NazimWork\UserSec\UserSec\bin\UserSecDO.dll
+D:\dailybackup\1707131730\NazimWork\UserSec\UserSec\bin\DMSDAL.dll
+D:\dailybackup\1707131730\NazimWork\UserSec\UserSec\bin\DMSBAL.pdb
+D:\dailybackup\1707131730\NazimWork\UserSec\UserSec\bin\DMSBE.pdb
+D:\dailybackup\1707131730\NazimWork\UserSec\UserSec\bin\UserSecBAL.pdb
+D:\dailybackup\1707131730\NazimWork\UserSec\UserSec\bin\UserSecBO.pdb
+D:\dailybackup\1707131730\NazimWork\UserSec\UserSec\bin\UserSecDO.pdb
+D:\dailybackup\1707131730\NazimWork\UserSec\UserSec\bin\DMSDAL.pdb
+D:\dailybackup\1707131730\NazimWork\UserSec\UserSec\obj\Debug\ResolveAssemblyReference.cache
+D:\dailybackup\1707131730\NazimWork\UserSec\UserSec\obj\Debug\UserSec.dll
+D:\dailybackup\1707131730\NazimWork\UserSec\UserSec\obj\Debug\UserSec.pdb
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\UserSec\bin\UserSec.dll.config
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\UserSec\bin\UserSec.dll
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\UserSec\bin\UserSec.pdb
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\UserSec\bin\DMSBAL.dll
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\UserSec\bin\DMSBE.dll
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\UserSec\bin\UserSecBAL.dll
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\UserSec\bin\UserSecBO.dll
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\UserSec\bin\UserSecDO.dll
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\UserSec\bin\DMSDAL.dll
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\UserSec\bin\DMSBAL.pdb
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\UserSec\bin\DMSBE.pdb
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\UserSec\bin\UserSecBAL.pdb
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\UserSec\bin\UserSecBO.pdb
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\UserSec\bin\UserSecDO.pdb
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\UserSec\bin\DMSDAL.pdb
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\UserSec\obj\Debug\UserSec.csprojResolveAssemblyReference.cache
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\UserSec\obj\Debug\UserSec.dll
+C:\DMS AMI\DMS\2207131810\amiWork\UserSec\UserSec\obj\Debug\UserSec.pdb
